@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "motiwithexpo",
-    "slug": "motiwithexpo",
+    "slug": "moti-with-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "UI example in Expo with animations using Moti ",
+    "githubUrl": "https://github.com/ricardoleme/motiWithExpo"
   }
 }

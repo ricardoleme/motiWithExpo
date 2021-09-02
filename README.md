@@ -4,6 +4,9 @@
 Projeto utilizado nas aulas de Programação para Dispositivos Móveis na FATEC Itu. (Faculdade de Tecnologia Dom Amaury Castanho).  
 A Fatec Itu é uma faculdade pública e gratuita do Centro Paula Souza, órgão pertencente ao Governo do Estado de São Paulo. 
 
+## Demo
+<https://expo.dev/@ricardoleme/moti-with-expo>
+
 ## Criando o projeto do zero
 ```
 expo init nomeprojeto
