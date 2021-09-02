@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
     left: 24,
 
     width: 90,
-    height: 230,
+    height: 70, //era 230
     overflow: 'hidden',
 
     backgroundColor: theme.colors.red,
