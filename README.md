@@ -14,12 +14,19 @@ expo install expo-app-loading
 yarn add moti
 ```
 
-## Clonando o projeto sem as animações
+## Clonando o projeto 
 ```
 git clone https://github.com/ricardoleme/motiWithExpo
 cd motiWithExpo
 npm i
 expo start
+```
+
+## Trocando entre os branches
+O projeto tem dois branches: main (código sem as animações) e animacoes (código já com as animações implementadas).
+Para trocar entre os dois ramos, informe:
+```
+git checkout main ou git checkout animacoes
 ```
 
 ## Meta
