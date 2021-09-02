@@ -11,7 +11,7 @@ cd nomeprojeto
 expo install react-native-reanimated
 expo install expo-font @expo-google-fonts/roboto @expo-google-fonts/ubuntu
 expo install expo-app-loading
-yarn add moti
+yarn add moti **ou** npm i moti
 ```
 
 ## Clonando o projeto 
